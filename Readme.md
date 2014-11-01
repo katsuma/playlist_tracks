@@ -9,6 +9,8 @@ It saves track data of selected playlist to clipboard.
 
 You'll see `Copy tracks from selected playlist` menu on `iTunes > Service`.
 
+![](https://raw.githubusercontent.com/katsuma/playlist_tracks/master/screenshot.png)
+
 # Unsinstallation
 1. Open `~/Library/Services`
 2. Delete `Copy tracks from selected playlist`
