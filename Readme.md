@@ -11,6 +11,11 @@ You'll see `Copy tracks from playlist` menu on `iTunes > Service`.
 
 ![](https://raw.githubusercontent.com/katsuma/playlist_tracks/master/screenshot.png)
 
+# How to use
+1. Select playlist on iTunes.
+2. Select `iTunes` > `Service` > `Copy tracks from playlist`.
+3. Data of playlist tracks is saved to your clipboard.
+
 # Unsinstallation
 1. Open `~/Library/Services`
 2. Delete `Copy tracks from playlist`
